@@ -1,10 +1,10 @@
 # Checking-and-Correcting-Grammatical-Errors-in-Turkish-with-Machine-Learning-and-Deep-Learning
 
 
-https://drive.google.com/drive/folders/16rH72NwdoqrRBjzT8e3o4L6uPrBA9pqw?usp=sharing
 
 Models and database is available in drive link
 
+https://drive.google.com/drive/folders/16rH72NwdoqrRBjzT8e3o4L6uPrBA9pqw?usp=sharing
 
 In this project, it is aimed to determine and correct the "-de/da/ki" in a sentence whether they are conjunctions or suffixes, to place appropriate punctuation marks in the sentence, to identify misspelled words and to suggest suitable words for their replacement. Also, Turkish words are suggested instead of foreign origin words
 
