@@ -10,6 +10,8 @@ In this project, it is aimed to determine and correct the "-de/da/ki" in a sente
 
 While preparing this project, deep learning algorithms were used.
 
+Models which are punctuation , -de/da and -ki were trained at Google Colab
+
 # Example1
 ![image](https://user-images.githubusercontent.com/46243758/150133095-39a079d7-14d6-4243-92c1-e80e7b7219aa.png)
 
